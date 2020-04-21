@@ -1,0 +1,11 @@
+# pyc ファイルは不要
+*.pyc
+*.pyo
+*.db
+
+# 不要フォルダ
+lib/
+.idea/
+.vscode/
+__pycache__
+.pytest_cache
