@@ -1,3 +1,5 @@
+[![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/devhishiki/cloud_code_hello)
+
 # Hello World with Cloud Code
 
 Cloud Code の開発で、 Pycharm の docker compose を利用した開発サンプル
